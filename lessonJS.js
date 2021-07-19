@@ -2,7 +2,7 @@ let username = "Uno";
 let greeting = "hi"; 
 
 function showName() {
-    username = "Fuck you";
+    username = "you";
     const massage = username + ": " + greeting;   
     console.log(massage);
 }
@@ -67,7 +67,7 @@ console.log(String(obj1.color || obj1.age))
 
 
 let obj2 = {
-    login: ["Hui"],
+    login: ["Hie"],
     age: 17,
     password: "2578fjoj"
 
